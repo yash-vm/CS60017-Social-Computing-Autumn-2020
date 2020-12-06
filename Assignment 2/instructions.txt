@@ -1,0 +1,14 @@
+Name: Yash Vinaykumar Mundewadi
+Roll no.: 19BT30030
+
+Python version used: 3.6.9
+
+Additional information:
+
+1. Centrality files are in the folder named "centralities"
+2. Brande's algorithm has been used to calculate betweenness centrality
+3. Please allow at least 12 minutes to 15 minutes for "gen_centrality.py" to run
+4. If "gen_centrality.py" is run, it will generate the centrality files in a folder called "centralities"
+5. Use "python3 gen_centrality.py" to run the code on linux terminal
+
+----------------------------------------------------------------END---------------------------------------------------------------------

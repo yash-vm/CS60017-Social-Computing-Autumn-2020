@@ -1,0 +1,15 @@
+Name: Yash Vinaykumar Mundewadi
+Roll no.: 19BT30030
+
+Python version used: 3.6.9
+
+Additional information:
+
+1. File path has been specified in lines 9 and 10 in order to load the unedited facebook and amazon graph dataset respectively. Kindly specify a different file path when you run the code on your system.
+2. This program generates facebook.elist and amazon.elist every time it is run.
+4. This program generates the plots that have been asked for in the assignment every time it is rub
+3. In case the program has to be run with a different elist file, kindly store the file in the same directory and the program will function correctly as the file name "xyz.elist" will be mentioned in the terminal as the program is run.
+5. As python 3 has been used by me, please make sure to run the program a: python3 gen_structure.py xyz.elist instead of python gen_structure xyz.elist
+6. All plots and subgraphs generated are stored in the same folder as where the python source code is. I have manually copied and pasted these files into the folders "plots" and "subgraphs" respectively.
+
+----------------------------------------------------------------END---------------------------------------------------------------------

@@ -1,0 +1,11 @@
+Name: Yash Vinaykumar Mundewadi
+Roll: 19BT30030
+
+
+Libraries required: Pandas, nltk, scikit-learn. Other libraries are standard(inbuilt)
+
+Please specify file paths in lines 45,46,93,94 in both task1 and task2
+
+Instructions for task 2:
+It is using Naive Bayes on TF-IDF vectors
+Runs using command line arguement "python3 task2.py"
